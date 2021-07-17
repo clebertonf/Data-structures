@@ -1,6 +1,6 @@
 // Codigo funciona somente em um ambiente com .NET core instalado
 // Codigo precisa esta contido em uma classe e namesapace
-// feito apenas para entendimento dos coneitos de lista
+// feito apenas para entendimento dos conceitos de lista
 
 List<int> values = new List<int>();
 
